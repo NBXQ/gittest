@@ -4,3 +4,4 @@ it is very good
 this is line four
 this is diff
 line five
+line six
